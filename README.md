@@ -1,6 +1,6 @@
-#**amFOSS Tasks**
+****amFOSS Tasks****
 
-##**INTODUCTION**
+****INTODUCTION****
 
 Myself Sathvik Chathurvedi , I am a first-year BTech Computer Science Engineering student at Amrita Vishwa Vidyapeetham, Amritapuri campus. I does not have any basic idea in coding in my previous classes and my preferred language is Python. My hobbies include mostly watching and playing cricket ,Also i am really commited on putting the hardwork and give my best on every work i take on.
 
